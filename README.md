@@ -24,8 +24,7 @@ Joined Github **6** months ago.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 💬 &nbsp; Ask me about anything 
 - 👾 &nbsp; Fun fact: Coding can “power up” your brain.
-- 📫 &nbsp; How to reach me: joelsunny495@gmail.com.
-- 📝 &nbsp; Checkout my [Resume]().
+
 
 ### My Favorites:
 
