@@ -63,10 +63,10 @@ Joined Github **6** months ago.
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=joeljsv&theme=react&border=61dafb&hide_border=true" alt="Joel Sunny" />
+    <a href="https://github.com/azraft277/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=joeljsv&theme=react&border=61dafb&hide_border=true" alt="az" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/azrafr277/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=joeljsv&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
