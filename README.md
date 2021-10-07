@@ -4,20 +4,6 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.twitter.com/azraft277/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/azraft277/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
-<br>
-
-### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=joeljsv.joeljsv&style=flat-square&color=0088cc)
-
-Im a CS student, passionate in open source software and CEO of bluspace inc.
-
-Joined Github **6** months ago.
-
-
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with DSA in CPP, Nodejs, Express, Flutter, Mongodb, Javascript, etc.
@@ -33,30 +19,6 @@ Joined Github **6** months ago.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 
-<hr>
-<h2 align="center">👨🏽‍💻 Languages & Frameworks & Tools 👨🏽‍💻</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Gulp" height="25" src="images/flutter.png"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-</p>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -83,13 +45,7 @@ Joined Github **6** months ago.
 <hr>
 <details>	
   <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	  <li><b>OS:</b> Mac OS X</li>
-	    <li><b>Laptop: </b> MacBook Air M1 </li>
-  	    <li><b>Browser: </b> Chrome </li>
-	    <li><b>Code Editor:</b> VSCode </li>
-	</ul>	
+  	
 </details>
 
 #
@@ -98,9 +54,6 @@ Joined Github **6** months ago.
 
 ### Show some ❤️  by starring ⭐️ some of the repositories!
 
-</div>
-<!--
-**joeljsv/joeljsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
