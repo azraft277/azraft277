@@ -1,7 +1,8 @@
-- 🛠 &nbsp; I’m currently working with DSA in CPP, Nodejs, Express, Flutter, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 💬 &nbsp; Ask me about anything 
-- 👾 &nbsp; Fun fact: Coding can “power up” your brain.
+### Now :
+- &nbsp; I’m currently working on a python project
+- &nbsp; I’m currently learning Full Stack Development.
+- &nbsp; let's talk tech for hours
+- &nbsp; Fun fact: male bees die after one jizz
 
 
 ### My Favorites:
@@ -12,13 +13,7 @@
 
 
 <hr>
-
-
-#
-
 <div align="center">
-
--->
 <h2 align="center"> Stats </h2>
 <br>
 <p align=center>
@@ -37,6 +32,3 @@
     </a>
   </div>
   <br>
-<!---
-
---->
