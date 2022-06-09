@@ -1,30 +1,4 @@
-I'm a self-taught passionate FrontEnd developer from
-
-**About me**
-
-- 💼 Engineer at [currently unemployed
-
-- 📈 Built nothing
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
-
-- 💬 Ask me about anything [here](https://github.com/azraft277/azraft277/issues)
-
-
-
-### Now :
-- &nbsp; I’m currently working on a python project
-- &nbsp; I’m currently learning Full Stack Development.
-- &nbsp; let's talk tech for hours
-- &nbsp; Fun fact: male bees die after one jizz
-
-
-### My Favorites:
-
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading tech blogs.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
-
+💬 Ask me about anything [here](https://github.com/azraft277/azraft277/issues)
 
 <hr>
 <div align="center">
