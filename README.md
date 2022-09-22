@@ -4,4 +4,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezrakaba1"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=neubig&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kehanlu&layout=compact"/>
