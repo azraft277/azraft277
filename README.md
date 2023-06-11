@@ -5,7 +5,7 @@
 <details>
     <summary><b> Now </b></summary><br/>
     
-    Currently I'm really into edtech and the way humans interact with AI.
+    Currently I'm into edtech and the way humans interact with AI.
     
 </details>
 
