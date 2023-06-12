@@ -1,6 +1,6 @@
 💬 Ask me about anything [here](https://instagram.com/ezrakaba)
 
-[![Ezra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezrakaba1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ezra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezraarisi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
     <summary><b> Now </b></summary><br/>
